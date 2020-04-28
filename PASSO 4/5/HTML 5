@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Imagens</h2>
+<p>Como definir uma imagem:</p>
+
+<img src="og-image.png" alt="Imagem" width="600" height="300">
+
+</body>
+</html>
